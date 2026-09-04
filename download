@@ -1,4 +1,4 @@
-# Copy to your Vercel project env vars (not committed)
-GH_TOKEN=github_pat_xxx
-REPOS=siphen00/mt5-trading-agent,siphen00/melago
-DASHBOARD_PASSWORD=pick-something-strong
+node_modules
+.env
+.env.local
+.vercel
