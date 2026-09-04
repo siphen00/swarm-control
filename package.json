@@ -1,0 +1,8 @@
+{
+  "name": "swarm-control",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "One dashboard to see and control your GitHub Actions agents.",
+  "engines": { "node": ">=18" }
+}
